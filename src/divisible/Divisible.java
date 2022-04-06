@@ -11,8 +11,7 @@ package divisible;
  */
 public class Divisible {
  public static void main(String[] args) {
-        System.out.println(is_divisible(0));
-       
+        System.out.println(is_divisible(75));
     }
     
     public static String is_divisible(int a){
